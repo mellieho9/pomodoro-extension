@@ -15,5 +15,7 @@
     "default_popup": "index.html"
   },
   "permissions": [
+    "storage",
+    "tabCapture"
   ]
 }
